@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Android API level 16 (Jelly Bean)
+# Python 3.9
+
+appium-python-client==5.1.1
+selenium==4.33.0
